@@ -15,4 +15,5 @@ for ($i = 0; $i < $count; $i++) {
     $summary += $products[$i]->price;
 }
 
-echo 'Сумма покупки ' . $summary;
+echo 'Сумма вашей покупки ' . $summary;
+
