@@ -1,0 +1,12 @@
+{
+    "name": "codemoxie/php-2",
+    "authors": [
+        {
+            "name": "e.pazukhina",
+            "email": "enpazukhina@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
